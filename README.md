@@ -1,4 +1,4 @@
-# testapp
+# Attendance App
 
 A new Flutter project.
 
